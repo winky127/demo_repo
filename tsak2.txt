@@ -1,1 +1,14 @@
 that is another text file for my HW1
+
+Task 1:
+Create an account on GitHub. 
+
+Change your profile picture. Ideally, use photo of yourself that would be appropriate for a resume. If you are not comfortable with the idea of using a photo of yourself, use any other image that is suitable for a workplace environment.
+
+Follow the instructions provided in class to fork the class repository to your GitHub.
+
+Create another repository with at least two text files in it on GitHub (other than the forked class notes repository). Make at least two additional commits to the reposiotry and push them to GitHub.
+
+Provide a link to both repositories here.
+
+You will also need to submit the link to your own repository (not the forked one) to Canvas / Bruin Learn.
